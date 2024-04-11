@@ -1,2 +1,2 @@
-# Postgres-DataBase--Projects
-Web Application Involving Postgres Database
+# Postgres-Projects
+Web App Involving Postgres Database
